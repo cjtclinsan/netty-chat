@@ -1,0 +1,125 @@
+2020-01-09 18:55:11 INFO - 服务已启动，监听端口:10080
+2020-01-09 18:56:08 INFO - 成功连接服务器，已执行登录
+2020-01-09 18:56:08 INFO - 与服务器断开连接:org.msgpack.MessageTypeException: Expected array, but got integer value
+2020-01-09 18:56:08 INFO - 与服务器断开连接:org.msgpack.MessageTypeException: Expected array, but got integer value
+2020-01-09 18:56:36 INFO - 成功连接服务器，已执行登录
+2020-01-09 18:56:36 INFO - 与服务器断开连接:org.msgpack.MessageTypeException: Expected array, but got integer value
+2020-01-09 18:56:36 INFO - 与服务器断开连接:org.msgpack.MessageTypeException: Expected array, but got integer value
+2020-01-09 19:03:57 INFO - 服务已启动，监听端口:10080
+2020-01-09 19:04:35 INFO - 成功连接服务器，已执行登录
+2020-01-09 19:05:53 INFO - 成功连接服务器，已执行登录
+2020-01-09 19:08:42 INFO - Socket Client:与客户端断开连接:远程主机强迫关闭了一个现有的连接。
+2020-01-09 19:08:45 INFO - 与服务器断开连接:远程主机强迫关闭了一个现有的连接。
+2020-01-09 19:09:15 INFO - 服务已启动，监听端口:10080
+2020-01-09 19:09:21 INFO - 成功连接服务器，已执行登录
+2020-01-09 19:09:27 INFO - 成功连接服务器，已执行登录
+2020-01-09 19:18:55 INFO - Socket Client:与客户端断开连接:org.msgpack.MessageTypeException: Expected array, but got integer value
+2020-01-09 19:18:55 INFO - Socket Client:与客户端断开连接:org.msgpack.MessageTypeException: Expected array, but got integer value
+2020-01-09 19:18:55 INFO - Socket Client:与客户端断开连接:org.msgpack.MessageTypeException: Expected array, but got integer value
+2020-01-09 19:18:55 INFO - Socket Client:与客户端断开连接:org.msgpack.MessageTypeException: Expected array, but got integer value
+2020-01-09 19:18:55 INFO - Socket Client:与客户端断开连接:org.msgpack.MessageTypeException: Expected array, but got integer value
+2020-01-09 19:18:55 INFO - Socket Client:与客户端断开连接:org.msgpack.MessageTypeException: Expected array, but got integer value
+2020-01-09 19:18:57 INFO - Socket Client:与客户端断开连接:org.msgpack.MessageTypeException: Expected array, but got integer value
+2020-01-09 19:18:57 INFO - Socket Client:与客户端断开连接:org.msgpack.MessageTypeException: Expected array, but got integer value
+2020-01-09 19:18:57 INFO - Socket Client:与客户端断开连接:org.msgpack.MessageTypeException: Expected array, but got integer value
+2020-01-09 19:18:57 INFO - Socket Client:与客户端断开连接:org.msgpack.MessageTypeException: Expected array, but got integer value
+2020-01-09 19:18:57 INFO - Socket Client:与客户端断开连接:org.msgpack.MessageTypeException: Expected array, but got integer value
+2020-01-09 19:18:57 INFO - Socket Client:与客户端断开连接:org.msgpack.MessageTypeException: Expected array, but got integer value
+2020-01-09 19:19:29 INFO - 服务已启动，监听端口:10080
+2020-01-09 19:19:58 INFO - 服务已启动，监听端口:10080
+2020-01-09 19:20:07 INFO - 成功连接服务器，已执行登录
+2020-01-09 19:20:16 INFO - 成功连接服务器，已执行登录
+2020-01-09 19:22:40 INFO - Socket Client:与客户端断开连接:org.msgpack.MessageTypeException: Expected array, but got integer value
+2020-01-09 19:22:40 INFO - Socket Client:与客户端断开连接:org.msgpack.MessageTypeException: Expected array, but got integer value
+2020-01-09 19:23:14 INFO - Socket Client:与客户端断开连接:org.msgpack.MessageTypeException: Expected array, but got integer value
+2020-01-09 19:23:14 INFO - Socket Client:与客户端断开连接:org.msgpack.MessageTypeException: Expected array, but got integer value
+2020-01-09 19:23:14 INFO - Socket Client:与客户端断开连接:org.msgpack.MessageTypeException: Expected array, but got integer value
+2020-01-09 19:23:14 INFO - Socket Client:与客户端断开连接:org.msgpack.MessageTypeException: Expected array, but got integer value
+2020-01-09 19:23:14 INFO - Socket Client:与客户端断开连接:org.msgpack.MessageTypeException: Expected array, but got integer value
+2020-01-09 19:23:14 INFO - Socket Client:与客户端断开连接:org.msgpack.MessageTypeException: Expected array, but got integer value
+2020-01-09 19:24:14 INFO - Socket Client:与客户端断开连接:org.msgpack.MessageTypeException: Expected array, but got integer value
+2020-01-09 19:24:14 INFO - Socket Client:与客户端断开连接:org.msgpack.MessageTypeException: Expected array, but got integer value
+2020-01-09 19:26:43 INFO - 服务已启动，监听端口:10080
+2020-01-09 19:26:55 INFO - 成功连接服务器，已执行登录
+2020-01-09 19:27:08 INFO - 成功连接服务器，已执行登录
+2020-01-10 09:11:51 INFO - 服务已启动，监听端口:10080
+2020-01-10 09:11:57 INFO - 成功连接服务器，已执行登录
+2020-01-10 09:12:04 INFO - 成功连接服务器，已执行登录
+2020-01-10 09:13:16 INFO - 服务已启动，监听端口:10080
+2020-01-10 09:13:20 INFO - 成功连接服务器，已执行登录
+2020-01-10 09:13:25 INFO - 成功连接服务器，已执行登录
+2020-01-10 09:15:53 INFO - 服务已启动，监听端口:10080
+2020-01-10 09:15:55 INFO - 成功连接服务器，已执行登录
+2020-01-10 09:15:59 INFO - 成功连接服务器，已执行登录
+2020-01-10 09:16:05 INFO - 成功连接服务器，已执行登录
+2020-01-10 09:17:51 INFO - 与服务器断开连接:null
+2020-01-10 09:17:51 INFO - 与服务器断开连接:null
+2020-01-10 09:17:51 INFO - 与服务器断开连接:null
+2020-01-10 09:17:51 INFO - Socket Client:与客户端断开连接:你的主机中的软件中止了一个已建立的连接。
+2020-01-10 09:18:04 ERROR - Failed to submit a listener notification task. Event loop shut down?
+java.util.concurrent.RejectedExecutionException: event executor terminated
+	at io.netty.util.concurrent.SingleThreadEventExecutor.reject(SingleThreadEventExecutor.java:844)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.offerTask(SingleThreadEventExecutor.java:328)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.addTask(SingleThreadEventExecutor.java:321)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.execute(SingleThreadEventExecutor.java:769)
+	at io.netty.util.concurrent.DefaultPromise.safeExecute(DefaultPromise.java:764)
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:432)
+	at io.netty.util.concurrent.DefaultPromise.setFailure(DefaultPromise.java:112)
+	at io.netty.channel.DefaultChannelPromise.setFailure(DefaultChannelPromise.java:89)
+	at io.netty.channel.AbstractChannelHandlerContext.safeExecute(AbstractChannelHandlerContext.java:1010)
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:825)
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:794)
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:831)
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1071)
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:300)
+	at com.tc.netty.chat.client.handler.ChatClientHandler.sendMsg(ChatClientHandler.java:107)
+	at com.tc.netty.chat.client.handler.ChatClientHandler.access$100(ChatClientHandler.java:19)
+	at com.tc.netty.chat.client.handler.ChatClientHandler$1.run(ChatClientHandler.java:81)
+2020-01-10 09:18:16 INFO - 成功连接服务器，已执行登录
+2020-01-10 09:18:47 INFO - 服务已启动，监听端口:10080
+2020-01-10 09:18:50 INFO - 成功连接服务器，已执行登录
+2020-01-10 09:18:53 INFO - 成功连接服务器，已执行登录
+2020-01-10 09:18:55 INFO - 成功连接服务器，已执行登录
+2020-01-10 09:25:39 INFO - 服务已启动，监听端口:10080
+2020-01-10 09:25:43 INFO - 成功连接服务器，已执行登录
+2020-01-10 09:25:46 INFO - 成功连接服务器，已执行登录
+2020-01-10 09:25:49 INFO - 成功连接服务器，已执行登录
+2020-01-10 09:34:33 INFO - 服务已启动，监听端口:10080
+2020-01-10 09:34:38 INFO - 成功连接服务器，已执行登录
+2020-01-10 09:34:43 INFO - 成功连接服务器，已执行登录
+2020-01-10 09:34:48 INFO - 成功连接服务器，已执行登录
+2020-01-10 09:37:27 INFO - 服务已启动，监听端口:10080
+2020-01-10 09:37:29 INFO - 成功连接服务器，已执行登录
+2020-01-10 09:37:32 INFO - 成功连接服务器，已执行登录
+2020-01-10 09:38:55 INFO - 服务已启动，监听端口:10080
+2020-01-10 09:38:57 INFO - 成功连接服务器，已执行登录
+2020-01-10 09:39:00 INFO - 成功连接服务器，已执行登录
+2020-01-10 09:45:13 INFO - 服务已启动，监听端口:10080
+2020-01-10 09:45:15 INFO - 成功连接服务器，已执行登录
+2020-01-10 09:45:20 INFO - 成功连接服务器，已执行登录
+2020-01-10 09:46:05 INFO - 服务已启动，监听端口:10080
+2020-01-10 09:46:18 INFO - 成功连接服务器，已执行登录
+2020-01-10 09:46:22 INFO - 成功连接服务器，已执行登录
+2020-01-10 09:46:25 INFO - 成功连接服务器，已执行登录
+2020-01-10 10:37:45 INFO - 服务已启动，监听端口:10080
+2020-01-10 10:37:53 INFO - 成功连接服务器，已执行登录
+2020-01-10 10:38:03 INFO - 成功连接服务器，已执行登录
+2020-01-10 10:38:10 INFO - 成功连接服务器，已执行登录
+2020-01-10 10:39:23 INFO - 与服务器断开连接:远程主机强迫关闭了一个现有的连接。
+2020-01-10 10:39:23 INFO - 与服务器断开连接:远程主机强迫关闭了一个现有的连接。
+2020-01-10 10:39:23 INFO - 与服务器断开连接:远程主机强迫关闭了一个现有的连接。
+2020-01-10 10:39:28 INFO - 服务已启动，监听端口:10080
+2020-01-10 10:39:32 INFO - 成功连接服务器，已执行登录
+2020-01-10 10:39:36 INFO - 成功连接服务器，已执行登录
+2020-01-10 10:39:39 INFO - 成功连接服务器，已执行登录
+2020-01-10 10:41:22 INFO - 与服务器断开连接:远程主机强迫关闭了一个现有的连接。
+2020-01-10 10:41:22 INFO - 与服务器断开连接:远程主机强迫关闭了一个现有的连接。
+2020-01-10 10:41:27 INFO - 服务已启动，监听端口:10080
+2020-01-10 10:41:30 INFO - 成功连接服务器，已执行登录
+2020-01-10 10:41:33 INFO - 成功连接服务器，已执行登录
+2020-01-10 10:41:36 INFO - 成功连接服务器，已执行登录
+2020-01-10 10:42:42 INFO - 与服务器断开连接:远程主机强迫关闭了一个现有的连接。
+2020-01-10 10:42:48 INFO - 服务已启动，监听端口:10080
+2020-01-10 10:42:51 INFO - 成功连接服务器，已执行登录
+2020-01-10 10:42:54 INFO - 成功连接服务器，已执行登录
+2020-01-10 10:42:56 INFO - 成功连接服务器，已执行登录
